@@ -1,6 +1,9 @@
 # dio_http
 
-A new Flutter application.
+Network calls using dio and http
+![http](https://github.com/KodiMadhavarao/http_in_flutter/blob/master/images/Screenshot_1551936254.png)
+![dio](https://github.com/KodiMadhavarao/http_in_flutter/blob/master/images/Screenshot_1551936282.png)
+
 
 ## Getting Started
 
