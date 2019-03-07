@@ -30,7 +30,7 @@ class DioScreenState extends State<DioScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("HTTP Request"),
+        title: Text("Dio Request"),
       ),
       body:createListView(),
     );
